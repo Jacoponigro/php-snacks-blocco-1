@@ -14,7 +14,7 @@
     "punteggio_trasferta" => "63",
     ],
     [
-    "casa" => "Chicago Bulls"
+    "casa" => "Chicago Bulls",
     "trasferta" => "San Antonio Spurs",
     "punteggio_casa" => "80",
     "punteggio_trasferta" => "70",
