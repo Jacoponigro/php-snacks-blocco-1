@@ -40,7 +40,7 @@
     <!-- ciclo php e print -->
     <h3><?php
     for ($i=0; $i < count($matches); $i++) {
-     echo .$matches[$i]['casa']." - ".$matches[$i]['trasferta']." | ".$matches[$i]['punteggio_casa']."-".$matches[$i]['punteggio_trasferta'];
+     echo $matches[$i]['casa']." - ".$matches[$i]['trasferta']." | ".$matches[$i]['punteggio_casa']."-".$matches[$i]['punteggio_trasferta'];
      }
     ?></h3>
   </body>
